@@ -6,6 +6,9 @@
 > 
 > ![egg_orig](aneggornot_orig.png)
 
+(note: the images provided for the challenge are the .svg files, the .png files
+are used only so github displays the eggs)
+
 The background image already has white center, so seems odd for
 there to be a bunch of white pixels in the .svg file. Changing the 
 `#w` and `#b` to `fill-opacity:0.5`, we indeed see some overlap. 
