@@ -6,5 +6,5 @@
 
 Connecting to the service, we notice that we are supposed to
 quickly "reverse" hashes given to us. For this challenge a
-python script was created, looking up each hash using 
+python script was created ([game.py](game.py)), looking up each hash using 
 http://hashtoolkit.com/.

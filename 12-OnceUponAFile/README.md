@@ -84,3 +84,5 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 ```
 
 In the extracted folder we find a file "egg12.png", which we scan to complete the level.
+
+[egg12](egg12.png)
